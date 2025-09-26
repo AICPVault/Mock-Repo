@@ -42,6 +42,7 @@ y = 2
 sum_result = x + y
 print(f"Sum of {x} and {y} is: {sum_result}")
 
+
 # Strings
 first_name = "John"
 last_name = "Doe"
@@ -57,3 +58,4 @@ print(f"Type of is_learning: {type(is_learning)}")
 
 # Practice Exercise:
 # Try changing the values of these variables and see what happens!
+
