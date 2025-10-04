@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="937d5f67-2e12-429b-b38e-a33390d58932" name="Changes" comment="" />
+    <list default="true" id="937d5f67-2e12-429b-b38e-a33390d58932" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day10_advanced_data_structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day11_regular_expressions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day12_web_scraping_apis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day13_data_analysis_pandas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day14_web_development_flask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day15_testing_debugging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day16_deployment_production.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day17_ai_ml_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day18_ai_integration_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day19_sql_database_operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day1_python_basics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day20_numpy_fundamentals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day21_jupyter_development_environment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day2_operators_conditionals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day3_loops_iteration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day4_functions_scope.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day5_data_structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day6_file_handling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day7_exception_handling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day8_object_oriented_programming.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_wise_learning/day9_modules_packages.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,22 +37,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="33ML0zJi4VA8U8sQ6myjxhwwY07" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.practice.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.day1_python_basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day5_data_structures.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week_1_assessment.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

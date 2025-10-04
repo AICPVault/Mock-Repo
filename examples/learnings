@@ -1,0 +1,83 @@
+Week 1 – Python Foundations
+
+Day 1 – Setup: Python 3.12+, uv (replaces pip/Poetry - 10-100x faster), VS Code + Ruff extension, basic syntax
+Day 2 – Variables, modern type hints (Python 3.12+ generics syntax), mutable vs immutable types
+Day 3 – Strings: slicing, methods, f-strings, template strings
+Day 4 – Collections I: lists, tuples (indexing, slicing, nesting)
+Day 5 – Collections II: dictionaries, sets, common operations
+Day 6 – Control flow: if/elif/else, match/case (Python 3.10+), ternary expressions
+Day 7 – Loops: for, while, enumerate, zip, break/continue
+
+Week 2 – Functions & First Project
+
+Day 8 – Functions I: def, return, parameters, *args/**kwargs, docstrings
+Day 9 – Functions II: type annotations (modern syntax), positional-only (/) & keyword-only (*) params
+Day 10 – Comprehensions: list/dict/set comprehensions, nested comprehensions
+Day 11 – Lambdas + built-in functions: map, filter, sorted, any/all
+Day 12 – Project Day: CLI calculator with error handling
+Day 13 – File I/O: pathlib, reading/writing text files, CSV basics
+Day 14 – JSON, TOML (modern config format), YAML handling
+
+Week 3 – Error Handling & Code Quality
+
+Day 15 – Error handling I: try/except/else/finally, exception hierarchy
+Day 16 – Error handling II: custom exceptions, context managers (with statement)
+Day 17 – Ruff: Modern linting & formatting (replaces Black + flake8 + isort - 150x faster)
+Day 18 – Logging: standard logging module, structlog for structured logging
+Day 19 – functools: partial, @cache (Python 3.9+), wraps
+Day 20 – Project: Task tracker CLI (persistent JSON + logging)
+Day 21 – Project continuation/polish + Ruff integration
+
+Week 4 – OOP & Modern Python Features
+
+Day 22 – Classes I: attributes, methods, init, self
+Day 23 – Classes II: dunder methods (str, repr, eq)
+Day 24 – dataclasses: basics, default_factory, frozen, slots (performance boost)
+Day 25 – Pydantic V2: data validation, settings management, JSON schema
+Day 26 – Inheritance & super(), Protocols (structural subtyping - preferred over ABC in 2025)
+Day 27 – Decorators: function decorators, class decorators, @property
+Day 28 – uv deep dive: workspaces, lock files, uv run, dependency groups
+
+Week 5 – APIs & Web (Modern Stack)
+
+Day 29 – HTTP basics, REST APIs, httpx (modern alternative to requests)
+Day 30 – httpx async, error handling, retry patterns with tenacity
+Day 31 – API authentication: API keys, OAuth2 basics, JWT handling
+Day 32 – Web scraping I: Playwright (headless browser automation - modern standard)
+Day 33 – Web scraping II: BeautifulSoup (still relevant for interviews), CSS selectors
+Day 34 – FastAPI intro: modern async web framework (most popular in 2025)
+Day 35 – Project: Weather API service with FastAPI + data persistence
+
+Week 6 – Data Processing (Modern Tools)
+
+Day 36 – Polars I: DataFrames, reading CSV/Parquet, basic operations (faster than Pandas)
+Day 37 – Polars II: filtering, selecting, lazy evaluation, expressions API
+Day 38 – Polars III: groupby, aggregations, joins, streaming for large data
+Day 39 – DuckDB: embedded SQL database, querying files directly, Polars integration
+Day 40 – itertools & more-itertools: advanced iteration patterns
+Day 41 – Visualization I: Plotly (interactive charts - industry standard)
+Day 42 – Visualization II: Altair (declarative) or Streamlit (quick dashboards)
+
+Week 7 – Async & AI Integration
+
+Day 43 – Async I: asyncio basics, async/await, creating coroutines
+Day 44 – Async II: TaskGroups (Python 3.11+), gather vs create_task, structured concurrency
+Day 45 – Async III: aiohttp, async context managers, async generators
+Day 46 – LLMs I: OpenAI API or Anthropic Claude API (structured outputs, JSON mode)
+Day 47 – LLMs II: Prompt engineering, function calling, Instructor library (structured extraction)
+Day 48 – LLMs III: LiteLLM (unified API for multiple providers), streaming responses
+Day 49 – Mini Project: Async web scraper with LLM-powered summarization
+
+Week 8 – Testing, Git, Deployment & Capstone
+
+Day 50 – Git & GitHub: clone, commit, push, pull, branching, pre-commit hooks
+Day 51 – pytest I: basic tests, fixtures, assertions, pytest-xdist (parallel testing)
+Day 52 – pytest II: parametrize, mocking with pytest-mock, coverage.py
+Day 53 – pytest-asyncio, testing async code, hypothesis (property-based testing)
+Day 54 – Environment management: pydantic-settings, python-dotenv, secrets handling
+Day 55 – Docker basics: Dockerfile, multi-stage builds, containers, docker compose
+Day 56 – Deployment: Railway/Fly.io/Render (modern alternatives to Heroku)
+Day 57 – Capstone Planning: Design FastAPI app with LLM integration + database
+Day 58-59 – Capstone Build: Backend API + SQLModel/SQLAlchemy 2.0 + PostgreSQL
+Day 60 – Capstone: Add background tasks (with Celery or FastAPI BackgroundTasks)
+Day 61 – Capstone Polish: Testing, Ruff formatting, documentation, deploy with GitHub Actions
